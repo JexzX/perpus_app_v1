@@ -71,8 +71,9 @@
     <div class="welcome-container">
         <h1>Selamat Datang di Perpustakaan Teknologi Informasi</h1>
         <p class="welcome-message">
-            Kami menyediakan berbagai koleksi buku dan materi digital terkait teknologi informasi<br>
-            untuk mendukung pembelajaran Anda.
+            Temukan berbagai sumber daya digital seputar teknologi informasi di sini!<br>
+            Perpustakaan ini menyediakan buku elektronik, artikel ilmiah, dan materi ajar yang dapat membantu Anda
+            memperdalam pengetahuan dan menyelsaikan tugas akademik.
         </p>
         <a href="Login" class="login-btn">Login</a>
     </div>
